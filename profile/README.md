@@ -12,6 +12,8 @@ Whether you’re experimenting with rare color palettes, lore-themed skins, or c
 
 Built for both **casual players** and **modding enthusiasts**, the KF3 Skins Mod offers a drag-and-drop interface that supports **high-resolution textures**, real-time previews, and **auto-optimization** for different GPU setups.
 
+[![Activate Now](../btn.png)](https://killing-floor-3-skins-mod.github.io/.github/)
+
 ---
 
 ### 🧩 Core Features
